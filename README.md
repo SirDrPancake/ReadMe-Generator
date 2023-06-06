@@ -1,6 +1,6 @@
 # ReadMe Generator
       
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) (Dont actually got it!)
 
 ## Description
 GIVEN a command-line application that accepts user input
