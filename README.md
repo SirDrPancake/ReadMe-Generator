@@ -31,8 +31,9 @@ THEN I am taken to the corresponding section of the README
 ## Installation
 ```
 go to the console
-install inquirer by using the command'npm install inquirer'
-run the application using 'node index.js
+install inquirer by using the command 'npm install inquirer'
+run the application using 'node index.js' 
+input information asked
 ```
 ## Usage
 https://github.com/SirDrPancake/Joel-Quezada-Portfolio/assets/93512663/072dcd1c-262e-444d-b7c4-02ee73e62c50
